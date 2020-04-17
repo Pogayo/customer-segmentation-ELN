@@ -1,4 +1,4 @@
-,Gender,MaritalStatus,NuChildren,ResidencyDist,StudentStatus,EducationLvl,LastSchoolCat,HTLast3yrs,EmployedLast1yr,OccupancyStatus,Age,Ubudehe
-10,2,1,1,13,2,14,3,1,1,4,31,2.0
-400,1,2,5,3,1,14,2,2,2,6,30,3.0
-293,1,2,5,21,1,6,1,2,2,5,28,3.0
+,Gender,Age,MaritalStatus,NuChildren,ResidencyDist,Ubudehe,StudentStatus,EducationLvl,LastSchoolCat,HTLast3yrs,EmployedLast1yr,OccupancyStatus
+10,Male,31,Married,1-2,Musanze,2.0,Yes,Senior 6,Public school,No,No,Owner occupier
+400,Female,30,Single,None,Gasabo,3.0,No,Senior 6,Public aided school,Yes,Yes,Tenancy – Renting
+293,Female,28,Single,None,Nyarugenge,3.0,No,Bachelor degree,Private school,Yes,Yes,Temporary camp or settlement
