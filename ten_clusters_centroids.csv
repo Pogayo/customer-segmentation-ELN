@@ -1,3 +1,11 @@
 ,Gender,MaritalStatus,NuChildren,ResidencyDist,StudentStatus,EducationLvl,LastSchoolCat,HTLast3yrs,EmployedLast1yr,OccupancyStatus,Age,Ubudehe
-Segment 0,Female,Single,None,Gasabo,No,Masters degree,Public aided school,No,Yes,Temporary camp or settlement,23.0,2.0
-Segment 1,Female,Single,None,Ngororero,No,Certificate,Public aided school,No,No,Owner occupier,24.0,2.0
+Segment 0,Female,Single,None,Gasabo,No,Senior 6,Private school,No,Yes,Temporary camp or settlement,25.0,2.0
+Segment 1,Female,Single,None,Ngororero,No,Bachelor degree,Public aided school,No,No,Owner occupier,28.0,2.0
+Segment 2,Female,Single,None,Gasabo,No,Bachelor Year 2,Public aided school,No,Yes,Temporary camp or settlement,26.0,2.0
+Segment 3,Female,Single,None,Gasabo,No,Primary,Public aided school,No,No,Owner occupier,1.0,3.0
+Segment 4,Female,Single,None,Nyarugenge,No,Senior 6,Public aided school,No,Yes,Owner occupier,24.0,2.0
+Segment 5,Female,Single,None,Gasabo,No,Certificate,Public aided school,No,Yes,Temporary camp or settlement,27.0,2.0
+Segment 6,Female,Single,None,Ngororero,No,Bachelor Year 1,Public aided school,No,No,Owner occupier,25.0,2.0
+Segment 7,Female,Single,None,Ngororero,Yes,Bachelor year 2,Public aided school,No,No,Owner occupier,1.0,3.0
+Segment 8,Female,Single,None,Kicukiro,No,Senior 6,Public aided school,No,Yes,Owner occupier,25.0,2.0
+Segment 9,Male,Single,Above,Nyarugenge,No,Bachelor degree,Private school,Yes,Yes,Tenancy – Renting,7410.0,2.0
